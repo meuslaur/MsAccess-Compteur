@@ -1,0 +1,60 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "20/08/2022 16:58:57",
+    "FullExportDate": "20/08/2022 16:58:57",
+    "OptionsHash": "08195f0",
+    "LastMergedCommit": "",
+    "Components": {
+      "Forms": {
+        "F_compteur.bas": {
+          "Hash": "0953afe",
+          "ExportDate": "20/08/2022 16:58:57",
+          "SourceModified": "20/08/2022 16:58:57",
+          "FilePropertiesHash": "9b2a8e6"
+        }
+      },
+      "Modules": {
+        "C_UtCompteur.cls": {
+          "Hash": "2d39ac6",
+          "ExportDate": "20/08/2022 16:58:57",
+          "SourceModified": "20/08/2022 16:58:57",
+          "FilePropertiesHash": "9396aea"
+        },
+        "MD_Api.bas": {
+          "Hash": "7bb03bc",
+          "ExportDate": "20/08/2022 16:58:57",
+          "SourceModified": "20/08/2022 16:58:57",
+          "FilePropertiesHash": "99ab385"
+        },
+        "MD_Demo.bas": {
+          "Hash": "be0499a",
+          "ExportDate": "20/08/2022 16:58:57",
+          "SourceModified": "20/08/2022 16:58:57",
+          "FilePropertiesHash": "79f01a0"
+        }
+      },
+      "Project": {
+        "project.json": {
+          "Hash": "19c3478",
+          "ExportDate": "20/08/2022 16:58:56",
+          "SourceModified": "20/08/2022 16:58:56",
+          "FilePropertiesHash": "dbc311b"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "Hash": "920ead6",
+          "ExportDate": "20/08/2022 16:58:56",
+          "SourceModified": "20/08/2022 16:58:56",
+          "FilePropertiesHash": "cfc7599"
+        }
+      }
+    }
+  }
+}
