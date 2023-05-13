@@ -11,7 +11,7 @@ Petit compteur de décompte pour l'exécutions d'un code
 Private cCompte As C_UtCompteur
 ```
 - Créer une procédure pour récupérer/détruire celle-ci à partir du formulaire :
-``vb
+```vb
 Public Function GetInstanceclsLabels() As C_UtCompteur
     If (cCompte Is Nothing) Then Set cCompte = New C_UtCompteur
     Set GetInstanceclsLabels = cCompte
