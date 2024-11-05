@@ -1,3 +1,5 @@
+<img align="left" src="docs/Logo_MsAccess.png" width="64px" >
+
 # MsAccess-Compteur
 Petit compteur de décompte pour l'exécutions d'un code
 
